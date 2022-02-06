@@ -17,7 +17,7 @@ body {
 	justify-content: space-between;
 	align-items: center;
 	overflow: hidden;
-	width: 30rem;
+	width: 28rem;
 	height: 15rem;
 	border-radius: 1.2rem;
 	padding: 1rem;
@@ -48,4 +48,12 @@ button {
 	font-weight: bold;
 	border-radius: 0.3rem;
 	cursor: pointer;
+}
+@media (min-width: 300px) and (max-width: 600px) {
+	.cookie-container {
+		width: 22rem;
+	}
+	.cookie-subtitle {
+		font-size: 0.9rem;
+	}
 }
