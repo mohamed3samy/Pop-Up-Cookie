@@ -51,7 +51,7 @@ button {
 }
 @media (min-width: 300px) and (max-width: 600px) {
 	.cookie-container {
-		width: 22rem;
+		width: 20rem;
 	}
 	.cookie-subtitle {
 		font-size: 0.9rem;
